@@ -24,7 +24,7 @@ x86_64 i386
 
 ## 使用说明
 
-mirror.lzu.edu.cn 已加入 CentOS 官方软件源列表，使用 YUM/DNF 时会根据网络情况自动选择和跳转。如果您需要指定 mirror.lzu.edu.cn 为您的默认源，请**首先备份**`/etc/yum.repos.d/CentOS-Base.repo` ，然后按照对应的版本，修改`etc/yum.repos.d/CentOS-Base.repo`的内容。
+mirror.lzu.edu.cn 已加入 CentOS 官方软件源列表，使用 YUM/DNF 时会根据网络情况自动选择和跳转。如果您需要指定 mirror.lzu.edu.cn 为您的默认源，请**首先备份**`/etc/yum.repos.d/CentOS-Base.repo` ，然后按照对应的版本，修改`/etc/yum.repos.d/CentOS-Base.repo`的内容。修改完成后执行`sudo yum makecache`。
 
 ### CentOS 7
 
