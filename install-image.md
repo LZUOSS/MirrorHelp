@@ -36,13 +36,9 @@
 
 ## Debian
 
-### 8.7.1 Install
+[8.7.1 Install](http://mirror.lzu.edu.cn/debian-cd/8.7.1/)
 
-### 8.7.1 LiveCD
-
-### 8.6.0 Install
-
-### 8.6.0 LiveCD
+[8.7.1 LiveCD](http://mirror.lzu.edu.cn/debian-cd/8.7.1-live/)
 
 
 
