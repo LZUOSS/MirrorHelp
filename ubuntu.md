@@ -41,3 +41,4 @@ deb https://mirror.lzu.edu.cn/ubuntu/ xenial-security main restricted universe m
 # deb-src https://mirror.lzu.edu.cn/ubuntu/ xenial-security main restricted universe multiverse
 ```
 
+修改完成后执行`sudo apt update`或者`sudo apt-get update`
