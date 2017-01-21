@@ -26,7 +26,7 @@ i386 x86_64
 
 ## 使用说明
 
-将 `/etc/apt/source.list` 中的地址改为`http://mirror.lzu.edu.cn/debian` 即可。
+将 `/etc/apt/source.list` 中的地址改为`http://mirror.lzu.edu.cn/ubuntu/` 即可。
 
 或者将该文件替换为以下内容（以 **Ubuntu 16.04 Xenial** 为例，且已默认注释源代码仓库）
 
